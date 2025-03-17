@@ -31,7 +31,7 @@ void print_word_ladder(const vector<string> &ladder){
             cout << " ";
         }
     }
-    cout << endl;
+    cout << " " << endl;
 }
 
 
